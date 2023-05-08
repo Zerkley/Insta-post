@@ -1,0 +1,21 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: black;
+}
+
+.caja-grande{
+    background-color: white;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    
+}
+
+.iconos{
+    display: flex;
+}
+#tag{
+    display: flex;
+    justify-content: flex-end;
+}
