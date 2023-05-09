@@ -1,6 +1,6 @@
 
 body{
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: black;
 }
 
@@ -16,7 +16,7 @@ body{
 
 }
 .titulo{
-    font-family: 'No';
+    font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: space-between;
     margin-left: 2%;
@@ -47,6 +47,7 @@ img{
     font-size: 30px;
     margin-left: 2%;
     margin-right: 2%;
+    padding-top: 7px;
     justify-content: space-between;
 }
 
@@ -55,6 +56,6 @@ img{
     display: flex;
 }
 .contenido{
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 10px;
 }
