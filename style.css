@@ -10,8 +10,9 @@ body{
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 600px;
-    height: 700px;
+    margin-top: 10px;
+    width: 500px;
+    height: 600px;
 
 }
 .titulo{
@@ -20,12 +21,20 @@ body{
     justify-content: space-between;
     margin-left: 2%;
     margin-right: 2%;
+    margin: 10px;
 }
 .rightitle{
     font-size: 30px;
+    padding-right: 10px;
+}
+.leftside{
+    display: flex;
+    flex-direction: row;
 }
 .leftitle{
     display: flex;
+    padding: 10px;
+    align-items: center;
 }
 img{
     display: block;
@@ -47,4 +56,5 @@ img{
 }
 .contenido{
     font-family: 'Noto Sans JP', sans-serif;
+    padding: 10px;
 }
